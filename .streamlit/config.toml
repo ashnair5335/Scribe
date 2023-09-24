@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+backgroundColor="#144004"
+secondaryBackgroundColor="#0a2102"
+font="monospace"
+textColor="coral"
+primaryColor="coral"
