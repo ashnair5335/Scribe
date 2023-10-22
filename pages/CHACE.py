@@ -14,7 +14,7 @@ try:
         chatgpt_response = response.choices[0].text
 
     if chatgpt_response:
-        st.write("ChatGPT's Response:")
+        st.write("CHACE's Response:")
         st.write(chatgpt_response)
 except:
     st.write("Not enough tokens.")
